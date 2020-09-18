@@ -10,4 +10,5 @@ From the practical standpoint, reusing or transferring information from previous
 
 ## Here, is the accuracy results
 
+
 ![](train%20and%20val%20acc.png)
