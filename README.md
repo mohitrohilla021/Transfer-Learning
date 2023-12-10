@@ -8,7 +8,4 @@ From the practical standpoint, reusing or transferring information from previous
 
 ### We have also used dropout to reduce the overfitting.
 
-## Here, is the accuracy results
-
-
 ![](train%20and%20val%20acc.png)
